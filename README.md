@@ -33,3 +33,4 @@ This lab walks you through using discrete distributions to perform calculations 
 - Understand discrete uniform, Bernoulli, binomial, and Poisson distributions
 - Interpret probability mass functions and cumulative distribution functions
 # 1_02-lab-loot-boxes
+# 1_02-lab-loot-boxes
